@@ -1,0 +1,21 @@
+#cabecera{
+    background-color: #EEEEEE;
+    PADDING: 10 PX;
+    COLOR: #539CDC;
+}
+#menu{
+    background-color: #337AB7;
+    padding: 10 PX;
+margin-bottom: 5 PX;
+}
+a.item_menu{
+    color:white;
+text-decoration:none;
+padding-top:10px;
+padding-bottom:10px;
+padding-left: 5px;
+padding-right: 5px;
+}
+a.item-menu:hover{
+    background-color: #539CDC;
+}
